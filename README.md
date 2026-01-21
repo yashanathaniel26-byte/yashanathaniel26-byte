@@ -11,7 +11,8 @@ public:
         "Machine Learning",
         "Deep Learning",
         "Data Mining",
-        "Cybersecurity"
+        "Fullstack",
+        "MLops"
     };
 
     map<string, vector<string>> skills = {
