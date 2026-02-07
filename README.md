@@ -25,7 +25,7 @@ public:
 
 🎓 Data Science Student @ Telkom University
 
-🧠 Interested in ML, Cybersecurity & System Design
+🧠 AI & Data Science Enthusiast
 
 💪 Gym enthusiast trying to reach David Laid build
 
